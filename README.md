@@ -52,6 +52,10 @@ Evolução do ARR:
 - `docs/` → Imagens e diagramas do sistema.  
 - `resultados/` → Gráficos de KPIs e métricas (MRR, ARR, etc.).  
 - `materiais/` → Apresentações, PDFs e outros documentos de apoio.
+## 🖥️ Telas da Plataforma
+
+Tela principal do Dashboard:  
+![Dashboard da Plataforma](materiais/tela_platform.png)
 
 ---
 
