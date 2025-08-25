@@ -24,7 +24,7 @@ A iniciativa uniu **estratégias de Growth**, **integrações financeiras** e **
 
 ## 📊 Resultados Alcançados
 - 📈 **+36% de MRR** (Monthly Recurring Revenue).  
-- 💹 **+51% de ARR** (Annual Recurring Revenue) em softwares e serviços.  
+- 💹 **+50% de ARR** (Annual Recurring Revenue) em softwares e serviços.  
 - ⚡ **+66% de aceleração no ciclo de cobrança**, via automação e reconciliação integrada.  
 - 🔄 Redução de custos operacionais e maior previsibilidade de receita.  
 - 🌐 Consolidação de um **ecossistema B2B** integrado para provedores e clientes.
