@@ -54,7 +54,7 @@ Evolução do ARR:
 - `materiais/` → Apresentações, PDFs e outros documentos de apoio.
 ## 🖥️ Telas da Plataforma
 
-Tela principal do Dashboard:  
+Tela principal do Markeplace:  
 ![Dashboard da Plataforma](materiais/tela_platform.png)
 
 ---
